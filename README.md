@@ -13,7 +13,7 @@ No split.
   * Initial dataset
 
 ## Acknowledgments
-* Sampiran v1.0 was built by Emmanuella Anggi Siallagan for her "Studi Mandiri" course at Faculty of Computer Science, Universitas Indonesia in 2022.
+* Sampiran v1.0 was built by Emmanuella Anggi Siallagan for her "Studi Mandiri" course at MIK, Faculty of Computer Science, Universitas Indonesia in 2022.
 
 ## References
 
