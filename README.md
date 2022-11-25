@@ -1,20 +1,19 @@
 # Sampiran: An Indonesian Pantun Dataset 
 
-
 ## Summary
 
-Sampiran is a dataset for ..
+Sampiran is a dataset for pantun generation. It consists of 7.8K Indonesian pantun, collected from various sources (online)
 
 ## Dataset Split
 
-...
+No split.
 
 ## Changelog
 * 2022-12-01 v1.0
   * Initial dataset
 
 ## Acknowledgments
-* Sampiran v1.0 was built by Emmanuella Anggi Siallagan for her master thesis at Faculty of Computer Science, Universitas Indonesia in 2022.
+* Sampiran v1.0 was built by Emmanuella Anggi Siallagan for her "Studi Mandiri" course at Faculty of Computer Science, Universitas Indonesia in 2022.
 
 ## References
 
