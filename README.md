@@ -20,7 +20,7 @@ XXX is a dataset for ..
 
 Please cite the following paper if you use this dataset for your project/publication:
 
-* Emmanuella Anggi Siallagan and Ika Alfina. _Poetry Generation for Indonesian Pantun: Comparison Between SeqGAN and GPT-2_. In Jurnal Ilmu Komputer dan Informasi (Journal of Computer Science and Information) Vol X No X _(Accepted)_. 
+* Emmanuella Anggi Siallagan and Ika Alfina. _Poetry Generation for Indonesian Pantun: Comparison Between SeqGAN and GPT-2_. In Jurnal Ilmu Komputer dan Informasi (Journal of Computer Science and Information) Vol X No X 2023 _(Accepted)_. 
 
 
 ## Licence
