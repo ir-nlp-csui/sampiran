@@ -1,9 +1,9 @@
-# XXX: An Indonesian Pantun Dataset 
+# Sampiran: An Indonesian Pantun Dataset 
 
 
 ## Summary
 
-XXX is a dataset for ..
+Sampiran is a dataset for ..
 
 ## Dataset Split
 
@@ -14,7 +14,7 @@ XXX is a dataset for ..
   * Initial dataset
 
 ## Acknowledgments
-* XXX v1.0 was built by Emmanuella Anggi Siallagan for her master thesis at Faculty of Computer Science, Universitas Indonesia in 2022.
+* Sampiran v1.0 was built by Emmanuella Anggi Siallagan for her master thesis at Faculty of Computer Science, Universitas Indonesia in 2022.
 
 ## References
 
