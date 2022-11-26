@@ -2,7 +2,7 @@
 
 ## Summary
 
-Sampiran is a dataset for pantun generation. It consists of 7.8K Indonesian pantun, collected from various sources (online)
+Sampiran is a dataset for pantun generation. It consists of 7.8K Indonesian pantun, collected from various sources (online). Pantun is a traditional Malay poem consisting of four lines: two lines of deliverance and two lines of message. This dataset filtered the gathered Pantun to follow the general rules of Pantun; four lines with ABAB rhyme and eight to twelve syllables per line.
 
 ## Dataset Split
 
