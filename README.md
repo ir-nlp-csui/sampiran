@@ -19,7 +19,7 @@ No split.
 
 Please cite the following paper if you use this dataset for your project/publication:
 
-* Emmanuella Anggi Siallagan and Ika Alfina. _Poetry Generation for Indonesian Pantun: Comparison Between SeqGAN and GPT-2_. In Jurnal Ilmu Komputer dan Informasi (Journal of Computer Science and Information) Vol xx Issue xx January 2023 _(Minor Revision)_. 
+* Emmanuella Anggi Siallagan and Ika Alfina. _Poetry Generation for Indonesian Pantun: Comparison Between SeqGAN and GPT-2_. In Jurnal Ilmu Komputer dan Informasi (Journal of Computer Science and Information) Vol 1x No x February 2023 _(Minor Revision)_. 
 
 
 ## Licence
