@@ -23,7 +23,7 @@ Please cite the following paper if you use this dataset for your project/publica
      author = {Siallagan, Emmanuella Anggi and Alfina, Ika}, <br>
      journal = {Jurnal Ilmu Komputer dan Informasi (Journal of Computer Science and Information)}, <br>
      keywords = {gpt-2,pantun,poetry generation,seqgan,text generation}, <br>
-     pages = {59--67}, <\br>
+     pages = {59--67}, <br>
      title = {{Poetry Generation for Indonesian Pantun : Comparison Between SeqGAN and GPT-2}}, <br>
      volume = {16}, <br>
      year = {2023} <br>
