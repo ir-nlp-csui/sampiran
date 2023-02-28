@@ -26,9 +26,9 @@ Please cite the following paper if you use this dataset for your project/publica
      pages = {59--67}, <br>
      title = {{Poetry Generation for Indonesian Pantun : Comparison Between SeqGAN and GPT-2}}, <br>
      volume = {16}, <br>
+     number = {1}, <br>
      year = {2023} <br>
 }
-
 
 ## Licence
 You can use this dataset for free. You don't need our permission to use it. Please cite our paper if your work uses our data in your publication.
