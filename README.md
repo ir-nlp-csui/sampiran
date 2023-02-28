@@ -19,7 +19,7 @@ No split.
 
 Please cite the following paper if you use this dataset for your project/publication:
 
-@article{siallagan2023, <br>
+@article{[siallagan2023](https://jiki.cs.ui.ac.id/index.php/jiki/article/view/1113), <br>
      author = {Siallagan, Emmanuella Anggi and Alfina, Ika}, <br>
      journal = {Jurnal Ilmu Komputer dan Informasi (Journal of Computer Science and Information)}, <br>
      keywords = {gpt-2,pantun,poetry generation,seqgan,text generation}, <br>
